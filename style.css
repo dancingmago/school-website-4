@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+.navbar-inverse{
+    text-align: center;
+    background-color: maroon;
+}
+.modal-content{
+    margin-top: 80px;
+}
+.img_modal{
+    display: inline-block;
+}
+.p_modal{
+    margin-top: 10px;
+}
+.modal-body{
+    text-align: center;
+}
